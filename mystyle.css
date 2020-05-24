@@ -59,7 +59,6 @@ th {
 
 img.scaledimg {
   width: 50%;
-  padding-left: 25%;
 }
 
 a.navigationlinks {
@@ -73,6 +72,13 @@ a.navigationlinks {
   font-size: 12px;
 }
 
+.text2 {
+  padding: 15px;
+  width: 80%;
+  color: lightgrey;
+  font-size: 20px;
+}
+
 .text {
   padding: 20px;
   width: 80%;
@@ -82,5 +88,7 @@ a.navigationlinks {
 }
 
 #specialid {
-  color: red;
+  color: blue;
+  padding: 20px;
+  font-size: 20px;
 }
